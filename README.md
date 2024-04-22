@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 
-<a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/headers.gif" alt="abhikashbabu" /></a>
+<a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/image.gif" alt="abhikashbabu" /></a>
 
 <h2 align="left">About Us</h2>
 - 🔭 I’m currently working on **[Queensvedas](https://queenvedas.netlify.app/)**
