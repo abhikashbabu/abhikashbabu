@@ -3,7 +3,7 @@
 <a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/image.gif" alt="abhikashbabu" /></a>
 
 <h2 align="left">About Us</h2>
-- 🔭 I’m currently working on **[Queensvedas](https://queenvedas.netlify.app/)**
+- 🔭 I’m currently working on [Queensvedas](https://queenvedas.netlify.app/)
 
 - 🌱 I’m currently learning **Haskell**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhikashbabu@gmail.com**
 
-- 🙋‍♂️ All about me is at **[abhikashbabu.netlify.app](abhikashbabu.netlify.app)**
+- 🙋‍♂️ All about me is at [abhikashbabu.netlify.app](abhikashbabu.netlify.app)
 
 - ⚡ Fun fact **I think I am Crazy 🤪**
 
