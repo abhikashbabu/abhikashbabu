@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/header.gif" alt="abhikashbabu" /></a>
-
+<h2 align="left">About Us</h2>
 
 - 🔭 I’m currently working on [Queensvedas](https://queenvedas.netlify.app/)
 
