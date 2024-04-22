@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 <h3 align="center">Full Stack Developer</h3>
-![](https://github.com/abhikashbabu/abhikashbabu/blob/main/header.gif)
 
+<a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/header.gif" alt="abhikashbabu" /></a>
 
 
 - 🔭 I’m currently working on [Queensvedas](https://queenvedas.netlify.app/)
