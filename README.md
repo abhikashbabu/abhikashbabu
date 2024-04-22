@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 <h3 align="center">Full Stack Developer</h3>
-header.gif
+<a target="_blank" rel="noopener noreferrer" href="/abhikashbabu/abhikashbabu/blob/main/header.gif" data-target="animated-image.originalLink"></a>
 
 - 🔭 I’m currently working on [Queensvedas](https://queenvedas.netlify.app/)
 
