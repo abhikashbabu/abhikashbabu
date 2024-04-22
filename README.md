@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 <h3 align="center">Full Stack Developer</h3>
-![](https://github.com/abhikashbabu/abhikashbabu/edit/main/header.gif)
+![](https://github.com/abhikashbabu/abhikashbabu/blob/main/header.gif)
 
 
 
