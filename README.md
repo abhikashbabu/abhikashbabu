@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Android Dev**
 
-- 💬 Ask me about **Ask me about anything, Except Maths**
+- 💬 Ask me about anything, Except Maths
 
 - 📫 How to reach me **abhikashbabu@gmail.com**
 
