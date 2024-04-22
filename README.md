@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 <h3 align="center">Full Stack Developer</h3>
-<a href="https://ibb.co/TY6Bfq1"><img src="https://i.ibb.co/TY6Bfq1/Black-and-White-Modern-Geometric-Animation-Youtube-Channel-Intro.gif" alt="Black-and-White-Modern-Geometric-Animation-Youtube-Channel-Intro" border="0"></a>
+header.gif
 
 - 🔭 I’m currently working on [Queensvedas](https://queenvedas.netlify.app/)
 
