@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhikashbabu@gmail.com**
 
-- 🙋‍♂️ All about me is at [abhikashbabu.netlify.app](https://abhikashbabu.netlify.com)
+- 🙋‍♂️ All about me is at [abhikashbabu.netlify.app](https://abhikashbabu.netlify.app)
 
 - ⚡ Fun fact **I think I am Crazy 🤪**
 
