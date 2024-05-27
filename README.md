@@ -4,7 +4,7 @@
 
 <h2 align="left">About Us</h2>
 
-- 🔭 I’m currently working on **Queensveda**,**MPSOS**
+- 🔭 I’m currently working on **Queensveda**
 
 - 🌱 I’m currently learning **Haskell**
 
