@@ -3,6 +3,7 @@
 <a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/image.gif" alt="abhikashbabu" /></a>
 
 <h2 align="left">About Us</h2>
+  - Founder Appsredx Company -
 
 - 🔭 I’m currently working on **Queensveda**
 
