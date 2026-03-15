@@ -4,10 +4,8 @@
 
 <h2 align="left">About Us</h2>
   
-- 📫 Founder Appsredx Company
-  
-- 🔭 I’m currently working on **Queensveda**
-
+- 🌱 I’m **SURAJ** nickname
+- 
 - 🌱 I’m currently learning **Haskell**
 
 - 👯 I’m looking to collaborate on **Android Dev**
