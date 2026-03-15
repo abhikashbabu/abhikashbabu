@@ -5,7 +5,7 @@
 <h2 align="left">About Us</h2>
   
 - 🌱 I’m **SURAJ** nickname
-- 
+  
 - 🌱 I’m currently learning **Haskell**
 
 - 👯 I’m looking to collaborate on **Android Dev**
@@ -13,8 +13,6 @@
 - 💬 Ask me about anything, **Except Maths😁**
 
 - 📫 How to reach me **abhikashbabu@gmail.com**
-
-- 🙋‍♂️ All about me is at [abhikashbabu.netlify.app](https://abhikashbabu.netlify.app)
 
 - ⚡ Fun fact **I think I am Crazy 🤪**
 
