@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhikash Babu</h1>
 
-<a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/image.gif" alt="abhikashbabu" /></a>
+<a href="https://instagram.com/abhikashbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhikashbabu/abhikashbabu/main/imagesbc.gif" alt="abhikashbabu" /></a>
 
 <h2 align="left">About Us</h2>
   
