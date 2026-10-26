@@ -6,8 +6,6 @@
   
 - 🌱 I’m **SURAJ** nickname
   
-- 🌱 I’m currently learning **Haskell**
-
 - 👯 I’m looking to collaborate on **OS Project**
 
 - 💬 Ask me about anything, **Except Maths😁**
