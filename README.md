@@ -112,9 +112,9 @@ I enjoy improving tools beyond my own repositories. Here are a couple of recent 
   <summary><strong>More activity</strong></summary>
   <br />
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhikashbabu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+    <img src="https://personal-trophy.vercel.app/api?username=abhikashbabu&theme=matrix" alt="GitHub trophies" width="95%" />
     <br /><br />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhikashbabu&bg_color=0D1117&color=F4F4F5&line=FFFFFF&point=FFFFFF&area=true&area_color=27272A&hide_border=true" alt="Contribution activity graph" width="95%" />
+    <img src="https://github-act-graph.rodriaum.com/graph?username=abhikashbabu&bg_color=0D1117&color=F4F4F5&line=FFFFFF&point=FFFFFF&area=true&area_color=27272A&hide_border=true" alt="Contribution activity graph" width="95%" />
   </div>
 </details>
 
