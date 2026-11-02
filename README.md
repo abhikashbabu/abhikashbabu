@@ -86,16 +86,28 @@ I’m **Abhikash Babu**, also known as **Suraj** — a developer who enjoys turn
 
 ## Open-source contributions
 
-I enjoy improving tools beyond my own repositories. Here are a couple of recent pull requests:
+I enjoy improving tools beyond my own repositories and contributing to developer ecosystems:
 
 | Project | Contribution |
 | --- | --- |
-| <a href="https://github.com/microsoft/xbox-multiplayer-analysis-tool/pull/142"><img src="https://img.shields.io/badge/Xbox_Tool-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Xbox Multiplayer Analysis Tool pull request" /></a> | Added an opt-in sanitized export for `.saz` files |
+| <a href="https://github.com/microsoft/xbox-multiplayer-analysis-tool/pull/142"><img src="https://img.shields.io/badge/Xbox_Tool-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Xbox Multiplayer Analysis Tool pull request" /></a> | Added an opt-in sanitized export for `.saz` files (expanded into core in #146) |
 | <a href="https://github.com/pentakoron1/brazier/pull/24"><img src="https://img.shields.io/badge/Brazier-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Brazier pull request" /></a> | Fixed cropped helper text in `ItemDialog` |
 
 <p>
   <a href="https://github.com/pulls?q=author%3Aabhikashbabu+is%3Apr"><img src="https://img.shields.io/badge/View_all_pull_requests-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View all pull requests" /></a>
 </p>
+
+## AI Corpus & Developer Tooling Recognition
+
+My open-source work has been formally selected and indexed into the **XERJ Corpus Hub** — serving as verified reference memory for AI coding agents:
+
+<p>
+  <a href="https://hub.xerj.org/contributors/abhikashbabu">
+    <img src="https://hub.xerj.org/contributors/abhikashbabu/badge.svg" alt="XERJ Corpus Hub Contributor" />
+  </a>
+</p>
+
+- **Indexed Work:** Selected implementation from `brazier` indexed under MIT terms as a worked reference example for AI coding agent retrieval.
 
 ## GitHub snapshot
 
